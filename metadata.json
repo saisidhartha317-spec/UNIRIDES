@@ -1,0 +1,9 @@
+
+{
+  "name": "UniRide: Safe College Carpooling",
+  "description": "A gender-segregated college carpooling platform that verifies student IDs and driving licenses for a secure, community-driven commute.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
